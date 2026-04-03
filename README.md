@@ -1,6 +1,6 @@
 # ⚠️ This project is archived
 
-**Gas Town has been superseded by [Gas City](https://github.com/dc995/gascity).** This repository is no longer maintained. Please use Gas City for all new projects.
+**Gas Town is transitioning to [Gas City](https://github.com/gastownhall/gascity).** This fork is no longer maintained. Please file new issues and PRs against the [Gas City](https://github.com/gastownhall/gascity) project.
 
 ---
 
