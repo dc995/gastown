@@ -1,3 +1,9 @@
+# ⚠️ This project is archived
+
+**Gas Town has been superseded by [Gas City](https://github.com/dc995/gascity).** This repository is no longer maintained. Please use Gas City for all new projects.
+
+---
+
 # Gas Town
 
 **Multi-agent orchestration system for Claude Code, GitHub Copilot, and other AI agents with persistent work tracking**
